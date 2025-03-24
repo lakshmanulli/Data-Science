@@ -1,0 +1,24 @@
+2025-03-24 16:02:56,713 - INFO - Training models...
+2025-03-24 16:03:00,421 - INFO - RandomForest model trained successfully.
+2025-03-24 16:03:03,898 - INFO - GradientBoosting model trained successfully.
+2025-03-24 16:03:05,830 - INFO - AdaBoost model trained successfully.
+2025-03-24 16:03:06,768 - INFO - XGBoost model trained successfully.
+2025-03-24 16:03:06,768 - INFO - Evaluating models...
+2025-03-24 16:03:06,900 - INFO - RandomForest Accuracy: 0.90
+2025-03-24 16:03:06,913 - INFO - GradientBoosting Accuracy: 0.90
+2025-03-24 16:03:07,011 - INFO - AdaBoost Accuracy: 0.90
+2025-03-24 16:03:07,024 - INFO - XGBoost Accuracy: 0.91
+2025-03-24 16:03:07,024 - INFO - Saving models...
+2025-03-24 16:03:07,098 - INFO - Models saved successfully.
+2025-03-24 16:04:57,830 - INFO - Training models...
+2025-03-24 16:05:01,673 - INFO - RandomForest model trained successfully.
+2025-03-24 16:05:05,576 - INFO - GradientBoosting model trained successfully.
+2025-03-24 16:05:07,903 - INFO - AdaBoost model trained successfully.
+2025-03-24 16:05:08,980 - INFO - XGBoost model trained successfully.
+2025-03-24 16:05:08,980 - INFO - Evaluating models...
+2025-03-24 16:05:09,112 - INFO - RandomForest Accuracy: 0.90
+2025-03-24 16:05:09,127 - INFO - GradientBoosting Accuracy: 0.90
+2025-03-24 16:05:09,222 - INFO - AdaBoost Accuracy: 0.90
+2025-03-24 16:05:09,229 - INFO - XGBoost Accuracy: 0.91
+2025-03-24 16:05:09,229 - INFO - Saving models...
+2025-03-24 16:05:09,302 - INFO - Models saved successfully.
